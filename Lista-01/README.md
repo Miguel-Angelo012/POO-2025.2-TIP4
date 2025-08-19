@@ -1,4 +1,4 @@
-///Lista de Exercícios da Lista 1:
+#Lista de Exercícios da Lista 1 pág 36:
 
 //Exercícios Resolvidos:
 
