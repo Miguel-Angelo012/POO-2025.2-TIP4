@@ -14,7 +14,8 @@ public class Principal {
 		
 		nov_preco = preco - preco * 10/100;
 		
-		System.out.print("Caso o valor" + preco + "Sofra um valor de 10%, o novo valor ser·: " + nov_preco);
+		System.out.print("Caso o valor " + preco + " Sofra um valor de 10%, o novo valor ser√°: " + nov_preco);
 	}
 
 }
+
