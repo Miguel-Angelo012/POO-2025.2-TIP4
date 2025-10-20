@@ -11,7 +11,7 @@ Este repositório tem como objetivo principal fornecer uma introdução clara e 
 ### Membros do Projeto
 
 * Rute Nunes do Nascimento - <https://github.com/Rute-nunes>
-* Miguel Ângelo Lima de Sousa - <https://github.com/Morango-Tango>
+* Miguel Ângelo Lima de Sousa - <https://github.com/Miguel-Angelo012>
 * João Augusto Gonsaga de Castro <https://github.com/Augusto1804>
 
 ### Fonte Utilizada
